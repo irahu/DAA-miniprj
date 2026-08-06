@@ -1,1 +1,1 @@
-This is a Design analysis and algorithms project.
+This is a Design analysis and algorithms project where we learn different algorithms.
